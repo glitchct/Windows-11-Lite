@@ -5,6 +5,7 @@
 > [!IMPORTANT]
 > Only Files on GitHub and Internet Archive are safe!                     
 > Download only from GitHub or Internet Archive, other ones are fake!
+> How to verify if the Windows 11 Lite Version is genuine/real -> 
 
 
 A Windows Version designed to optimize and debloat your System.
