@@ -1,4 +1,7 @@
-How to verify, if the Windows Lite Version you downloaded is genuine/real.
+You can use the file hashing method to verify if a file is genuine.                
+This can be done using tools like 7-Zip (After installing 7-Zip, right-click on the ISO file and go to 7-Zip > CRC SHA > SHA-256 or MD5).
+
+
 
 | Windows Lite Version | MD5                               | SHA256                                                               |
 |----------------------|-----------------------------------|----------------------------------------------------------------------|
